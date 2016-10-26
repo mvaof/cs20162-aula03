@@ -13,14 +13,10 @@ public class RestoDaDivisao {
 	/**
 	 * Serviço que calcula o resto da divisão inteira.
 	 * 
-	 * @param x
-	 *            dividendo da operação.
-	 * @param y
-	 *            divisor da operação.
+	 * @param x dividendo da operação.
+	 * @param y divisor da operação.
 	 * @return Resto da divisão inteira.
-	 * @throws IllegalArgumentException
-	 *             Se o parâmetro y for menor que 0 ou o arâmetro x menor ou
-	 *             igual a 0.
+	 * @throws IllegalArgumentException Se o parâmetro y for menor que 0 ou o arâmetro x menor ou igual a 0.
 	 */
 
 	public static int Mod(int x, int y) {
