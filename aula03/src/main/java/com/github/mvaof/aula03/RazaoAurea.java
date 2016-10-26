@@ -10,7 +10,7 @@ package com.github.mvaof.aula03;
  */
 public class RazaoAurea {
 	
-		    /**
+		 /**
 	     * Serviço que calcula a Razão-Áurea.
 	     * @param t1 entrada do primeiro numero.
 	     * @param t2 entrada do segundo numero.
